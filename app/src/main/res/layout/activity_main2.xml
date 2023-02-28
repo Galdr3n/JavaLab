@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="-1dp">
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/forward_arrow"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle_342"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="730dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/_time1"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/cellular_connection1"
+        tools:layout_editor_absoluteX="313dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/wif1i"
+        tools:layout_editor_absoluteX="343dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/battery1"
+        tools:layout_editor_absoluteX="370dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/hamburger"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="65dp" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/profile_pic"
+        tools:layout_editor_absoluteX="291dp"
+        tools:layout_editor_absoluteY="65dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="59dp"
+        android:layout_height="17dp"
+        android:text="Stone Stellar"
+        android:textColor="@color/black_b"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="323dp"
+        tools:layout_editor_absoluteY="70dp" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle_342"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="121dp" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle_342"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="322dp" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle_342"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="519dp" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="424dp"
+        android:layout_height="174dp"
+        app:srcCompat="@drawable/group_60"
+        tools:layout_editor_absoluteX="-4dp"
+        tools:layout_editor_absoluteY="930dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="140dp" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/erew"
+        tools:layout_editor_absoluteX="231dp"
+        tools:layout_editor_absoluteY="150dp" />
+
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/www"
+        tools:layout_editor_absoluteX="222dp"
+        tools:layout_editor_absoluteY="362dp" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ere"
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="551dp" />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/yyy"
+        tools:layout_editor_absoluteX="212dp"
+        tools:layout_editor_absoluteY="762dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="145dp"
+        android:layout_height="38dp"
+        android:text="Easily schedule event/games then find like minded players for battle. You up for it?"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="171dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Schedule"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="143dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Statistics"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="352dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="159dp"
+        android:layout_height="25dp"
+        android:text="All data from previous and  upcoming games can be found here "
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="388dp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Discover  Combats"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="551dp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="153dp"
+        android:layout_height="52dp"
+        android:text="Find out what’s new and compete among players with new challenges and earn cash with game points "
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="581dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="131dp"
+        android:layout_height="41dp"
+        android:text="Found the profile of a player that interests you? Start a conversation"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="778dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Message Players"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="746dp" />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/forward_arrow"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <ImageView
+        android:id="@+id/imageView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/forward_arrow"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="453dp" />
+
+    <ImageView
+        android:id="@+id/imageView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/forward_arrow"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="654dp" />
+
+    <ImageView
+        android:id="@+id/imageView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/forward_arrow"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="865dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
